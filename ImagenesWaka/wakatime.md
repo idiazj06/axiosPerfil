@@ -1,0 +1,1 @@
+![Esta es una imagen de ejemplo](./ImagenesWakatime/img.png)
